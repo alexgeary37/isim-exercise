@@ -1,0 +1,29 @@
+.image_pos {
+    position: absolute;
+    top: 5em;
+}
+
+.dials {
+    position: relative;
+    list-style-type: none;
+}
+
+.offLight {
+    position: absolute;
+    left: 5em;
+    height: 25px;
+    width: 25px;
+    background-color: rgb(136, 43, 43);
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.onLight {
+    position: absolute;
+    left: 5em;
+    height: 25px;
+    width: 25px;
+    background-color: rgb(216, 45, 45);
+    border-radius: 50%;
+    display: inline-block;
+}
